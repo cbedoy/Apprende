@@ -1,2 +1,10 @@
 Apprende
 ========
+
+Development by Carlos Bedoy
+
+Original idea by David Duron
+
+Code & Music 
+
+Mexico | Aguascalientes
